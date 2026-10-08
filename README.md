@@ -15,6 +15,9 @@ WIAnode_JISEN 是由基森（JiSenHua）制作的 TouchDesigner 第三方组件�
 - **内置参考入口**：通过「自查手册」查询传感器接口与配置标签，通过「官方文档」查看详细说明。
 - **TouchDesigner 2023 / 2025**：按作者教程说明支持这两个版本系列，具体 Build 的兼容性以实际使用为准。
 
+## 视频教程
+
+▶ [传感器也能无线控制画面？TouchDesigner × WIAnode 实战](https://www.bilibili.com/video/BV18zHS6LE7h/)
 
 ## 使用前准备
 
