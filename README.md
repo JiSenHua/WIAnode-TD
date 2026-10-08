@@ -15,13 +15,6 @@ WIAnode_JISEN 是由基森（JiSenHua）制作的 TouchDesigner 第三方组件�
 - **内置参考入口**：通过「自查手册」查询传感器接口与配置标签，通过「官方文档」查看详细说明。
 - **TouchDesigner 2023 / 2025**：按作者教程说明支持这两个版本系列，具体 Build 的兼容性以实际使用为准。
 
-## 下载
-
-当前仓库提供：**`WIAnode_JISEN_v1.0.2.tox`**。
-
-**[下载插件](https://github.com/JiSenHua/WIAnode-TD/raw/refs/heads/main/WIAnode_JISEN_v1.0.2.tox)** · [查看仓库](https://github.com/JiSenHua/WIAnode-TD)
-
-下载 `.tox` 文件后，将它拖入 TouchDesigner 的网络编辑区即可加载。
 
 ## 使用前准备
 
@@ -34,7 +27,7 @@ WIAnode_JISEN 是由基森（JiSenHua）制作的 TouchDesigner 第三方组件�
 
 ## 快速开始
 
-1. 将 `WIAnode_JISEN_v1.0.2.tox` 拖入 TouchDesigner。
+1. 将 `WIAnode_JISEN.tox` 拖入 TouchDesigner。
 2. 在组件中填写 WIAnode 的实际 IP 地址。
 3. 点击「重新连接」，确认状态显示「已连接」。
 4. 在组件的 CHOP 输出后连接一个 **Null CHOP**。
@@ -93,5 +86,3 @@ Constant TOP → TOP to CHOP → Shuffle CHOP → Reorder CHOP → Null CHOP
 作者：**基森 / [JiSenHua](https://github.com/JiSenHua)**。
 
 本项目为第三方 TouchDesigner 组件。WIAnode 硬件及其官方文档由 DFRobot 提供。
-
-本项目采用 [MIT License](LICENSE)。

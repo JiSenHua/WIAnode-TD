@@ -15,13 +15,6 @@ WIAnode_JISEN is a third-party TouchDesigner component created by 基森 (JiSenH
 - **Built-in reference links**: Use the sensor reference guide (「自查手册」) to check ports and configuration tags, or open the official documentation (「官方文档」) for details.
 - **TouchDesigner 2023 / 2025**: The author's tutorial states support for both release families. Compatibility with individual builds should be verified in your environment.
 
-## Download
-
-The repository currently includes **`WIAnode_JISEN_v1.0.2.tox`**.
-
-**[Download the component](https://github.com/JiSenHua/WIAnode-TD/raw/refs/heads/main/WIAnode_JISEN_v1.0.2.tox)** · [View the repository](https://github.com/JiSenHua/WIAnode-TD)
-
-Download the `.tox` file and drag it into the TouchDesigner network editor to load it.
 
 ## Requirements and preparation
 
@@ -34,7 +27,7 @@ Download the `.tox` file and drag it into the TouchDesigner network editor to lo
 
 ## Quick start
 
-1. Drag `WIAnode_JISEN_v1.0.2.tox` into TouchDesigner.
+1. Drag `WIAnode_JISEN.tox` into TouchDesigner.
 2. Enter the actual IP address of your WIAnode in the component.
 3. Click 「重新连接」 (Reconnect) and confirm that the status reads 「已连接」 (Connected).
 4. Connect a **Null CHOP** to the component's CHOP output.
@@ -93,5 +86,3 @@ Report problems or suggest improvements through [GitHub Issues](https://github.c
 Created by **基森 / [JiSenHua](https://github.com/JiSenHua)**.
 
 This is a third-party TouchDesigner component. WIAnode hardware and its official documentation are provided by DFRobot.
-
-This project is licensed under the [MIT License](LICENSE).
